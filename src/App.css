@@ -1,10 +1,23 @@
 .App {
   text-align: center;
+  background-color: #61dafb;  
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.directory-image{
+  width: 100px;
+  border-radius: 10px;
+  
+}
+
+.directory-entry{
+  background-color: tan;
+  border-radius: 5px; 
+  font-family: comic Sans MS;
 }
 
 @media (prefers-reduced-motion: no-preference) {
